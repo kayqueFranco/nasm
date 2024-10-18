@@ -1,7 +1,7 @@
 # Estudo de comandos NASM
 ## Primeros comandos
 
-* Progama hello worl
+* Progama hello world
 ```Assembly
 global _start
 
